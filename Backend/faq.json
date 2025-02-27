@@ -1,0 +1,7 @@
+{
+    "What is this chatbot about?": "This chatbot is designed to answer frequently asked questions using AI and NLP techniques.",
+    "How does this chatbot work?": "It processes user queries using Natural Language Processing and provides relevant responses.",
+    "Hi": "Hii, I am doing good , How are you , Do u have anything to ask me??",
+    "What technologies are used in this chatbot?": "The chatbot is built using Flask, spaCy, and JavaScript.",
+    "How do I install and run this chatbot?": "You need to install dependencies and run `python app.py` in the backend."
+}
